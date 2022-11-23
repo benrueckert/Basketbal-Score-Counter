@@ -1,13 +1,13 @@
 body {
     margin: 0;
-    color:white;
+    color: white;
     background: #1B244A;
     font-size: 16px;
 }
 
 .container {
     display: flex;
-    justify-content: space-around;  
+    justify-content: space-around;
 }
 
 h3 {
@@ -43,7 +43,7 @@ h4 {
 
 #counter-btn-wrapper {
     display: flex;
-    justify-content: space-around;  
+    justify-content: space-around;
     padding: 0;
 }
 
