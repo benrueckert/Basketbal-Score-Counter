@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    color:white;
+    background: #1B244A;
+    font-size: 16px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;  
+}
+
+h3 {
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5rem;
+}
+
+h4 {
+    color: #F94F6D;
+    font-weight: 400;
+    font-size: 3rem;
+    margin: 20px 20px;
+}
+
+#counter-wrapper {
+    background: #080001;
+    max-width: 100%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.add-btn {
+    background: transparent;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    margin: 0;
+}
+
+#counter-btn-wrapper {
+    display: flex;
+    justify-content: space-around;  
+    padding: 0;
+}
+
+#reset-btn {
+    margin-top: 20px;
+    border: 2px solid #E11D48;
+    border-radius: 5px;
+    background: #E11D48;
+    color: white
+}
+
+#wrapper {
+    text-align: center;
+}
